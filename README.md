@@ -21,7 +21,7 @@
 <h2>📺 YouTube Videos</h2>
 
 - [Fyrma](https://youtu.be/v_q-TaCOjoU)
-- [MeetSpace](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [MeetSpace](https://youtu.be/0_KZLExnjZ0)
 
 <h2> 🤳 Connect with me:</h2>
 
