@@ -12,7 +12,7 @@
 
 <h2>📺 YouTube Videos</h2>
 
-- [Fyrma](https://youtu.be/v_q-TaCOjoU)
+- [Fyrma](https://youtu.be/laDzhzqdI1I)
 - [MeetSpace](https://youtu.be/0_KZLExnjZ0)
 
 <h2> 🤳 Connect with me:</h2>
